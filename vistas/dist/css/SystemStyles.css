@@ -1,0 +1,18 @@
+/*
+*Estilos del sistema
+*/
+
+.img-login {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    border-radius: 20% 20% 0% 0%;
+}
+
+.border-login-box{
+    background: #fff;
+    padding: 20px;
+    border-top: 0;
+    color: #666;
+    border-radius: 0% 0% 10% 10%;
+}
